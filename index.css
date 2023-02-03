@@ -65,6 +65,10 @@ button {
     gap: 24px;
 }
 
+.copy {
+    cursor: copy;
+}
+
 #password-one, #password-two {
     font-family: 'Inter', sans-serif;
     font-weight: 500;
